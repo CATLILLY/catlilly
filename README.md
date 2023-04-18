@@ -8,7 +8,7 @@
 
 :white_check_mark: Support Bylickilabs: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib |
 |---|
-
+ 
 ---
 
 > **🐍 Bylickilabs Activity Snake**:
