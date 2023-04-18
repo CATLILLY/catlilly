@@ -4,80 +4,10 @@
 Hi there, I'm CATLILLY
  
 👶 I was born on October 29th, 1989 in Germany
+
 💍 Married since 2015 with [bylickilabs](https://github.com/bylickilabs)
- 
-⚡ I'm a software newcomer working on many Projects. 
-🕵️‍♀️ I'll Finish it 100%
-🧸 I am very proud of my Work
-🧑‍💻 I love Programming
-🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 
-### NEW - 10.04.2023
-:white_check_mark: Simple Port Scanner [LINK](https://github.com/bylickilabs/Simple-Port-Scanner)
-### OLD - 07.04.2023
-:white_check_mark: Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
-:white_check_mark: S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Controller)
-
-|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|
----
-
-### Organisation Badges
-|[![.github/workflows/invitation.yml](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml)|[![.github/workflows/create-user.yml](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml)|[![.github/workflows/community.yml](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml)|
-|---|---|---|
----
-
-|![Unbenannt](https://user-images.githubusercontent.com/109308073/229319759-909c5157-acad-42ce-9f14-425213f835ec.jpg)|
-|---|
-
-### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
-
-:white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
-:white_check_mark: Name the PR `fix: add <Bylickilabs>`.
-:white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
-
-```yarn
-@@ -0,0 +1,6 @@
-{
-  "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
-  "issueId": 1588,
-  "name": "Thorsten Bylicki",
-  "username": "bylickilabs"
-}
-```
----
-
-[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
-|---|---|---|---|---|
- 
-|[Support my IIS](https://github.com/bylickilabs/InternetInformationServer)|[IIS Discussion](https://github.com/bylickilabs/InternetInformationServer/discussions/626)|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
-|---|---|---|---| 
-
-🔓 Achivements - Update 2022/12/26 - Pull Shark Gold
-
-|![](https://user-images.githubusercontent.com/109308073/209476319-46299716-ebb4-404f-82f4-0b7f6629dc2c.png)|![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/209539749-839b2c89-861b-4d85-a691-77bad11c3154.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|
-|---|---|---|---|---|---|---|
-
-|BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
-|---|---|---|
-
-![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|
----  
-
-> **🏆 Trophys**:
-
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
-|---| 
-
-> **📢 PINNED REPO's**:
-
-|[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
-|---|---|---|---|---|---|
-
-> **🐍 Activity Snake**:
+> **🐍 Bylickilabs Activity Snake**:
 
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
 |---|
@@ -87,12 +17,12 @@ Hi there, I'm CATLILLY
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 
-> **😶‍🌫️ SUPPORT**:
+> **😶‍🌫️ SUPPORT Bylickilabs**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase ZEC - Not Available]
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 
-> **(SKILLS) via► ▼DropDown▼**:
+> **(Bylickilabs SKILLS) via► ▼DropDown▼**:
 <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
