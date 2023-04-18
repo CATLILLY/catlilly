@@ -4,7 +4,7 @@
  
 👶 I was born on October 29th, 1989 in Germany
  
-💍 Married since 2015 with [bylickilabs](https://github.com/bylickilabs) [PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)
+💍 Married since 2015 with [bylickilabs](https://github.com/bylickilabs) | [PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)
 
 :white_check_mark: Support Bylickilabs: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib |
 |---|
@@ -22,9 +22,9 @@
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
-
+ 
 ---
-
+ 
 > **😶‍🌫️ SUPPORT Bylickilabs**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase ZEC - Not Available]
