@@ -24,11 +24,6 @@
 |---|
  
 ---
- 
-> **😶‍🌫️ SUPPORT Bylickilabs**:
-- ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-- ![Keybase ZEC - Not Available]
-- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 
 > **(Bylickilabs SKILLS) via► ▼DropDown▼**:
 <details>
