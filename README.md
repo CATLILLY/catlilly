@@ -1,4 +1,4 @@
-:white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
+:white_check_mark: Support Bylickilabs: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|---|
                 
 Hi there, I'm CATLILLY
@@ -7,15 +7,21 @@ Hi there, I'm CATLILLY
 
 💍 Married since 2015 with [bylickilabs](https://github.com/bylickilabs)
 
+---
+
 > **🐍 Bylickilabs Activity Snake**:
 
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
 |---|
 
+---
+
 > **✍️ Random Dev Quote**:
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
+
+---
 
 > **😶‍🌫️ SUPPORT Bylickilabs**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
