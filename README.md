@@ -4,7 +4,7 @@
 [🔝Revision](https://gist.github.com/catlilly/revisions)|[🔝Keybase Proof](https://gist.github.com/catlilly)|
 |---|---|
  
-👶 I was born on October 29th, 1989 in Germany
+👶 I was born on October 29th
  
 💍 Married since 2015 with [bylickilabs](https://github.com/bylickilabs) | [PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)
 
