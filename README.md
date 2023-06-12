@@ -15,7 +15,7 @@
 
 > **🐍 Bylickilabs Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/8190d2d93728c194bafc77593939ef53bb619b79/bylickilabs-Snake.svg)|
 |---|
 
 ---
